@@ -18,7 +18,8 @@
     float: none;
     margin: 0 auto;
 }
-.gsc-control-cse {
+#___gcse_0 .gsc-control-cse {
 	background-color: #F8F8F6 !important;
 	border-color: #F8F8F6 !important;
+	padding: 0em !important;
 }
